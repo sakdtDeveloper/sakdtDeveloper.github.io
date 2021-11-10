@@ -1,2 +1,0 @@
-# sakdtDeveloper.github.io
-website
